@@ -4,3 +4,4 @@
 - [x] Libre Uptime detecting service (https://github.com/cstate)
 - [ ] Reboot DragonDrop, make clone of https://pingendo.com/
 - [ ] Linux GTK rewrite of Rufus ([a start...](https://github.com/kubastick/lufus))
+- [ ] Browser extension that removes Github's "type repo name to confirm change"
