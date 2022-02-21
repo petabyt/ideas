@@ -6,3 +6,4 @@
 - [ ] Linux GTK rewrite of Rufus ([a start...](https://github.com/kubastick/lufus))
 - [x] Browser extension that removes Github's "type repo name to confirm change" (https://github.com/petabyt/ghfix/)
 - [ ] Advertising service (privacy friendly, decentrialized, lightweight)
+- [ ] Site that displays a random Github repository
