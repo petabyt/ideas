@@ -2,8 +2,10 @@
 - [ ] Lightweight web office suite (minimal JS, under 1 megabyte per app)
 - [ ] Lightweight email service (like gmail basic html, but not Google), or small Tutanota/Protonmail frontend
 - [x] Libre Uptime detecting service (https://github.com/cstate)
-- [ ] Reboot DragonDrop, make clone of https://pingendo.com/
+- [ ] Open source clone of https://pingendo.com/ (probably already exists)
 - [ ] Linux GTK rewrite of Rufus ([a start...](https://github.com/kubastick/lufus))
 - [x] Browser extension that removes Github's "type repo name to confirm change" (https://github.com/petabyt/ghfix/)
-- [ ] Advertising service (privacy friendly, decentrialized, lightweight)
-- [ ] Site that displays a random Github repository
+- [ ] Advertising service (privacy friendly, decentrialized, lightweight, anonymous)
+- [ ] Site that displays a random Github repository with zero stars
+- [ ] Bloat free version of https://bubble.io/
+- [ ] Custom app for the UConnect system (disable auto engine off, turn on heated seats based on temperature)
