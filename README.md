@@ -9,3 +9,4 @@
 - [ ] Site that displays a random Github repository with zero stars
 - [ ] Bloat free version of https://bubble.io/
 - [ ] Custom app for the UConnect system (disable auto engine off, turn on heated seats based on temperature)
+- [ ] Tiny OS for ARM - Run on QEMU with GUI, modules - could be ported to fujihack and liemoth
