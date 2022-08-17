@@ -10,3 +10,4 @@
 - [ ] Bloat free version of https://bubble.io/
 - [ ] Custom app for the UConnect system (disable auto engine off, turn on heated seats based on temperature)
 - [ ] Tiny OS for ARM - Run on QEMU with GUI, [modules](https://danielc.dev/blog/tiny-embedded-module-system-spec), function hijacking, lua sripting - could be ported to fujihack and liemoth
+- [ ] Engine noise analyser (detect engine type, knocks)
