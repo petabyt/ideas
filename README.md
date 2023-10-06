@@ -1,13 +1,10 @@
-# Things I want to see made (or can't find)
+# Things I don't have time to make
+- [ ] Engine idle noise analyser (detect engine type, knocks, issues, AI-powered)
+User would place a phone on a car, press a button to analyze, and get info on the engine, problems, recommendations.
 - [ ] Lightweight web office suite (minimal JS, under 1 megabyte per app)
 - [ ] Lightweight email service (like gmail basic html, but not Google), or small Tutanota/Protonmail frontend
-- [x] Libre Uptime detecting service (https://github.com/cstate)
-- [ ] Open source clone of https://pingendo.com/ (probably already exists)
-- [ ] Linux GTK rewrite of Rufus ([a start...](https://github.com/kubastick/lufus))
-- [x] Browser extension that removes Github's "type repo name to confirm change" (https://github.com/petabyt/ghfix/)
-- [ ] Advertising service (privacy friendly, decentrialized, lightweight, anonymous)
+- [ ] OSS clone of https://pingendo.com/
+- [ ] Powerful linux de-facto USB tool (like Rufus)
 - [ ] Site that displays a random Github repository with zero stars
 - [ ] Bloat free version of https://bubble.io/
-- [ ] Custom app for the UConnect system (disable auto engine off, turn on heated seats based on temperature)
-- [ ] Tiny OS for ARM - Run on QEMU with GUI, [modules](https://danielc.dev/blog/tiny-embedded-module-system-spec), function hijacking, lua sripting - could be ported to fujihack and liemoth
-- [ ] Engine noise analyser (detect engine type, knocks)
+- [ ] Another jelly physics game
